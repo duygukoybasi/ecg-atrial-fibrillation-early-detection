@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+PyWavelets
+scikit-learn
+xgboost
+lightgbm
+torch
+tqdm
+shap
+statsmodels
